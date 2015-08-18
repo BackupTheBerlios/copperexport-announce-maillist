@@ -1,0 +1,39 @@
+From copperexport at zzamboni.org  Tue Jul 26 18:03:47 2005
+From: copperexport at zzamboni.org (Diego Zamboni)
+Date: Tue, 26 Jul 2005 18:03:47 +0200
+Subject: [Copperexport-announce] CopperExport news and announcements
+Message-ID: <40768B76-35F0-431F-A527-FC1EE67F4110@zzamboni.org>
+
+Hi,
+
+This is the first-ever message I send to the copperexport-announce  
+mailing list. I was pleasantly surprised to see quite a good number  
+of people subscribed to it!
+
+I would like to announce that if you are trying out Coppermine  
+1.4.1beta, you can now use CopperExport with it. I have released the  
+changes that have to be made to the xp_publish.php file for it to  
+recognize the additional information sent by CopperExport. You can  
+get it from the project downloads section at
+https://developer.berlios.de/project/showfiles.php?group_id=3037
+
+I also would like to say that even though the plugin hasn't been  
+updated in a while, I'm currently working on adding a few new  
+features. Of high priority at the moment is automatic conversion of  
+TIFF files to JPEG, for cameras that produce TIFF. Thank you for your  
+patience!
+
+In other announcements, the main CopperExport page was getting too  
+long with the comments, so I have closed comments on it. For further  
+questions, feedback and bug reports, please use the Forums, Features  
+and Bugs sections of the project page, at
+http://developer.berlios.de/projects/copperexport/
+
+Thank you for all the excellent feedback, ideas, and for your  
+interest in CopperExport!
+
+Best regards,
+--Diego Zamboni
+
+
+

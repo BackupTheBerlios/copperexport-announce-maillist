@@ -1,0 +1,30 @@
+From copperexport at zzamboni.org  Thu Oct 25 00:50:50 2007
+From: copperexport at zzamboni.org (Diego Zamboni)
+Date: Thu, 25 Oct 2007 00:50:50 +0200
+Subject: [Copperexport-announce] CopperExport 0.5.0 released
+Message-ID: <2C11ABC3-D897-4E22-9CF6-F38E47165872@zzamboni.org>
+
+Hi,
+
+It's with great pleasure that I would like to announce the release  
+of  CopperExport 0.5.0. As usual, you can get it here: http:// 
+zzamboni.org/brt/copperexport/
+
+	Main changes:
+
+	* Works with iPhoto7 (part of iLife'08)
+	
+	* Tested on both PPC and Intel platforms.
+
+	* Added server-side patches for Coppermine versions up to 1.4.13.
+
+	* Fixed an old-standing bug that would prevent uploads in some
+	cases, producing an HTTP 406 error (thanks to nonplus for the
+	patch).
+
+Enjoy!
+
+--Diego
+
+
+

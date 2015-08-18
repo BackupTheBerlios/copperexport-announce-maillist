@@ -1,0 +1,21 @@
+From copperexport at zzamboni.org  Mon Aug  1 00:35:09 2005
+From: copperexport at zzamboni.org (Diego Zamboni)
+Date: Mon, 1 Aug 2005 00:35:09 +0200
+Subject: [Copperexport-announce] CopperExport 0.3.0 released
+Message-ID: <EA252BB2-0E2C-4083-950F-738816038F6D@zzamboni.org>
+
+Hi,
+
+After some time of inactivity, there is finally a new release of  
+CopperExport. The big new feature is automatic conversion of non-JPEG  
+images to JPEG before uploading, plus some other new features and bug  
+fixes. Get it here: http://www.zzamboni.org/copperexport/
+
+As usual, big thanks go to Fraser Speirs for FlickrExport. Most of  
+the new code in this new release comes from him.
+
+Thank you,
+--Diego
+
+
+
